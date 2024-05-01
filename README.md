@@ -22,3 +22,13 @@ Curso Django - DRF (Django 5)
 	- git add .
 	- git commit -m "Adding files"
 	- git push
+
+# Instalación de Postgres
+	- pip install psycopg
+
+# Crear base de datos en postgres
+	- db_inventario
+	- puerto 5432
+	- hacer desde terminal migrate
+	- verificar en dbeaaver si ya existen las tablas de los modelos de django
+
