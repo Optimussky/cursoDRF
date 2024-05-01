@@ -10,3 +10,15 @@ Curso Django - DRF (Django 5)
 
 # Configuración de DRF en settings.py
 	- 'rest_framework',
+
+# Crear Repositorio en Github
+	- cursoDRF
+
+# Crear archivo .gitignore y agregar archivos y directorios
+	Pipfile
+	configura2.txt
+
+# Hacer push en Github
+	git add .
+	git commit -m "Adding files"
+	git push
