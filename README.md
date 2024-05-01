@@ -36,3 +36,12 @@ Curso Django - DRF (Django 5)
 	- hacer desde terminal migrate
 	- verificar en dbeaaver si ya existen las tablas de los modelos de django
 
+# Crear nuestra API para crear nuestro Serializador
+	- Nos permite convertir objetos de Django(Modelos) en un objeto JSON, para serializar y deserializar
+	- Creamos una carpeta llamada api, nos posicionamos en nuestro proyecto "inventario" para crearla
+	- Creamos nuestras clases para usar ModelViewsets para conseguir nuestro CRUD Generico
+	- Creamos los archivos necesarios dentro de la carpeta api:
+		- serializer.py
+		- views.py
+		- urls.py
+
