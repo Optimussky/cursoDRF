@@ -31,7 +31,7 @@ Curso Django - DRF (Django 5)
 	- pip install psycopg
 
 # Crear base de datos en postgres
-	- db_inventario
+	- bd_inventario
 	- puerto 5432
 	- hacer desde terminal migrate
 	- verificar en dbeaaver si ya existen las tablas de los modelos de django
