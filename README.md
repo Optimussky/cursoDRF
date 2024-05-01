@@ -1,3 +1,7 @@
+
+# Aprender a hacer un CRUD con Django Rest Framework
+En este ejercicio intentaremos usar Python y Django para crear un API 
+
 # cursoDRF
 Curso Django - DRF (Django 5)
 
