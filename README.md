@@ -19,6 +19,6 @@ Curso Django - DRF (Django 5)
 	configura2.txt
 
 # Hacer push en Github
-	git add .
-	git commit -m "Adding files"
-	git push
+	- git add .
+	- git commit -m "Adding files"
+	- git push
