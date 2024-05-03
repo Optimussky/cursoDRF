@@ -144,7 +144,7 @@ Curso Django - DRF (Django 5)
 	
 
 # También podemos pedir token a todas las api's ( para configurarlo vamos a nuestro archivo settings.py)
-
+```
 REST_FRAMEWORK = {
 	'DEFAULT_AUTHENTICATION_CLASSES': (
 		'rest_framework_simplejwt.authentication.JWTAuthentication',
@@ -155,4 +155,4 @@ REST_FRAMEWORK = {
 	},
 }
 
-
+```
