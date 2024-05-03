@@ -156,3 +156,19 @@ REST_FRAMEWORK = {
 }
 
 ```
+
+## VAMOS A UTILIZAR EL TOKEN QUE HEMOS CREADO
+
+
+`
+En la ruta HACEMOS un POST:
+http://localhost:8500/api/token/
+
+Usamos el access token EN http://localhost:8500/api/productos Hacemos un GET
+Y lo colocamos en:
+	- Authorization
+	- Bearer Token
+	- Pegamos el access token para hacer nuestra solicitud GET
+
+
+`
