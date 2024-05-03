@@ -160,7 +160,7 @@ REST_FRAMEWORK = {
 ## VAMOS A UTILIZAR EL TOKEN QUE HEMOS CREADO
 
 
-`
+```
 En la ruta HACEMOS un POST:
 http://localhost:8500/api/token/
 
@@ -171,4 +171,4 @@ Y lo colocamos en:
 	- Pegamos el access token para hacer nuestra solicitud GET
 
 
-`
+```
