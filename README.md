@@ -49,7 +49,7 @@ Curso Django - DRF (Django 5)
 	- instalación de modulo:
 		pip install djangorestframework-simplejwt
 	
-	* ESTRUCTURA DE UN JSON WEB TOKEN (JWT)
+	*.  ESTRUCTURA DE UN JSON WEB TOKEN (JWT)
 	- HEADER : "algoritmo": "HS256"
 	- PAYLOAD: DATA ({"nom": "Juan", "edad": 30, "estatus": "activo"})
 	- SIGNATURE: Firma validada de nuestro Token
